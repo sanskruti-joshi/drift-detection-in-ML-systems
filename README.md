@@ -140,7 +140,7 @@ The dataset is included in the repository under `data/`.
 
 **Title:** A Framework for Monitoring, Detecting, and Adaptive Response to Data Drift in Machine Learning Systems
 
-**Publication:** International Journal of Science and Innovative Research (IJSCI)
+**Publication:** International Journal of Science and Innovation Engineering (IJSCI)
 
 **DOI:** [10.70849/ijsci03052674252](https://ijsci.com/paper-details.php/14074252)
 
